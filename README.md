@@ -16,4 +16,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Live Demo
 
 You can see the live version of this project here:  
-👉 [https://timelycoder.github.io/cursor-aura/](https://timelycoder.github.io/cursor-aura/)
+ [https://timelycoder.github.io/cursor-aura/](https://timelycoder.github.io/cursor-aura/)
